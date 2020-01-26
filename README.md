@@ -18,6 +18,11 @@
 ### 목적
 machine learning 전반에 대한 기초 공부와 코드 구현(Jupyternotebook) 및 다양한 machine learning모델에 대한 공부
 
+### reference
+book_code_distribute file은 책 내용에 대한 배포용 코드를 저장한 것으로, 
+https://github.com/ageron/handson-ml 을 참고하였습니다. <br>
+bussiness analyticss file은 bussiness에서 사용하는 data analtics에 대한 수업으로 
+chungang univ. ba수업에서 다룬 내용입니다. 
 
 
 
