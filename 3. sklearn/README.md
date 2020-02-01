@@ -9,6 +9,8 @@
 ![image](https://user-images.githubusercontent.com/49298791/73588237-e2c7f980-4509-11ea-9d19-d14a915d5147.png)
 
 ![image](https://user-images.githubusercontent.com/49298791/73588351-98e01300-450b-11ea-95c3-570a4fbffb17.png)
+- 변승윤님 : https://zzsza.github.io/data/2018/05/01/maching-learning-cheat-sheet/
+
 
 ## 2. hyperprameter tuning
 - GridSearchCV, Manual Search, Bayes Search..
