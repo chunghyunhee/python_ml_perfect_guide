@@ -30,10 +30,12 @@ git hib upload순서는 발표순서대로 업로드
 ---
 
 ### reference
-book_code_distribute file은 책 내용에 대한 배포용 코드를 저장한 것으로, 
+- book_code_distribute file은 책 내용에 대한 배포용 코드를 저장한 것으로, 
 https://github.com/ageron/handson-ml 을 참고하였습니다. <br>
-bussiness analyticss file은 bussiness에서 사용하는 data analtics에 대한 수업으로 
-chungang univ. ba수업에서 다룬 내용입니다. 
+- bussiness analyticss file은 bussiness에서 사용하는 data analtics에 대한 수업으로 
+chungang univ. ba수업에서 다룬 내용입니다.
+- https://github.com/zzsza/Perfect-Guide-about-Machine-Learning-Study 
+(같은 책으로 진행된 변성윤님 스터디 내용 : 참고할 blog, kernel참고해서 공부하기) 
 
 
 
