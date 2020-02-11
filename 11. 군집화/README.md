@@ -6,3 +6,6 @@
 
 ## 2. 군집평가
 ## 3. 평균이동
+## 4. GMM
+## 5. DBSCAN
+- DBSCAN 논문 참고: https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf
